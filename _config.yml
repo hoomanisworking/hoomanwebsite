@@ -56,9 +56,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "Hooman Esfandiari"
+  avatar : "/assets/images/HE43.png"
+  bio    : "I am the co-founder and CEO of X23D AG."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
