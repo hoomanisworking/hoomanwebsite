@@ -23,7 +23,6 @@ github_username: username
 minimal_mistakes_skin: mint
 search: true
 logo: "assets/images/x23d_logo.jpeg"
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -93,6 +92,7 @@ defaults:
       path: ""
       type: posts
     values:
+      show_date: true
       layout: single
       author_profile: true
       read_time: true
