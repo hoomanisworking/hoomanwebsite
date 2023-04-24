@@ -29,7 +29,9 @@ Research topic: image analysis and calibration techniques for surgical C-arm tra
 [Department of Geodesy and Geomatics Engineering](https://en.kntu.ac.ir/geomatics/).  
 Research topic: Point cloud registration with off-the-shelf stereo cameras, GPA: 17.71/20.
 
-
+&nbsp;
+---
+&nbsp;
 ### Work Experience
 * **CEO and Co-founder** <span style="font-size:smaller;">[Jan 2022 - Current]</span>  
 X23D AG&reg; (Zurich, Switzerland)  
