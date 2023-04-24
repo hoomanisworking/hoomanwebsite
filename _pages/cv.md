@@ -1,6 +1,10 @@
 ---
 permalink: /cv/
 title: "Curriculum Vitae"
+tagline: "my tagline is awesome!"
+header:
+    overlay_image: "/assets/images/cv_header.jpeg"
+    caption: "my cv"
 ---
 
 
@@ -26,3 +30,6 @@ Research topic: image analysis and calibration techniques for surgical C-arm tra
 Research topic: Point cloud registration with off-the-shelf stereo cameras, GPA: 17.71/20.
 
 
+### Work Experience
+* CEO and Co-founder <span style="font-size:smaller;">[Jan 2022 - Current]</span>
+X23D AG
