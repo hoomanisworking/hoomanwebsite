@@ -7,13 +7,19 @@ header:
     caption: "my cv"
 ---
 
+### Sections:  
+1. [Personal Profile](#profile)
+1. [Education](#education)
+1. [Work Experience](#work)
+1. [Teaching Experience](#teaching)
 
-### <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="25" height="25"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"/></svg> Personal Profile 
+
+### <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="25" height="25"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"/></svg> Personal Profile <a name="profile"></a>
 I am the head of the artificial intelligence research group within the Research in Orthopedic Computer Science ([ROCS](https://rocs.balgrist.ch/en/) lab, [Balgrist University Hospital](https://www.balgrist.ch/en/), [University of Zurich](https://www.uzh.ch/en.html), Switzerland). I am also a co-founder and the Chief Executive Officer at X23D&reg; AG. My area of research includes: computer assisted surgery, surgical navigation, medical artificial intelligence, medical image processing and medical augmented reality. I currently supervise and co-supervise several M.Sc. and PhD students at the [University of Zurich](https://www.uzh.ch/en.html) and [ETH Zurich](https://ethz.ch/en.html). 
 
 --- 
 
-### <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="25" height="25"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M219.3 .5c3.1-.6 6.3-.6 9.4 0l200 40C439.9 42.7 448 52.6 448 64s-8.1 21.3-19.3 23.5L352 102.9V160c0 70.7-57.3 128-128 128s-128-57.3-128-128V102.9L48 93.3v65.1l15.7 78.4c.9 4.7-.3 9.6-3.3 13.3s-7.6 5.9-12.4 5.9H16c-4.8 0-9.3-2.1-12.4-5.9s-4.3-8.6-3.3-13.3L16 158.4V86.6C6.5 83.3 0 74.3 0 64C0 52.6 8.1 42.7 19.3 40.5l200-40zM111.9 327.7c10.5-3.4 21.8 .4 29.4 8.5l71 75.5c6.3 6.7 17 6.7 23.3 0l71-75.5c7.6-8.1 18.9-11.9 29.4-8.5C401 348.6 448 409.4 448 481.3c0 17-13.8 30.7-30.7 30.7H30.7C13.8 512 0 498.2 0 481.3c0-71.9 47-132.7 111.9-153.6z"/></svg> Education
+### <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="25" height="25"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M219.3 .5c3.1-.6 6.3-.6 9.4 0l200 40C439.9 42.7 448 52.6 448 64s-8.1 21.3-19.3 23.5L352 102.9V160c0 70.7-57.3 128-128 128s-128-57.3-128-128V102.9L48 93.3v65.1l15.7 78.4c.9 4.7-.3 9.6-3.3 13.3s-7.6 5.9-12.4 5.9H16c-4.8 0-9.3-2.1-12.4-5.9s-4.3-8.6-3.3-13.3L16 158.4V86.6C6.5 83.3 0 74.3 0 64C0 52.6 8.1 42.7 19.3 40.5l200-40zM111.9 327.7c10.5-3.4 21.8 .4 29.4 8.5l71 75.5c6.3 6.7 17 6.7 23.3 0l71-75.5c7.6-8.1 18.9-11.9 29.4-8.5C401 348.6 448 409.4 448 481.3c0 17-13.8 30.7-30.7 30.7H30.7C13.8 512 0 498.2 0 481.3c0-71.9 47-132.7 111.9-153.6z"/></svg> Education <a name="education"></a>
 
 * **PhD in Biomedical Engineering** <span style="font-size:smaller;">[May 2015 - April 2020]</span>  
 [The University of British Columbia (Vancouver, Canada)](https://www.ubc.ca/)  
@@ -34,7 +40,7 @@ Research topic: Point cloud registration with off-the-shelf stereo cameras, GPA:
 
 --- 
 
-### <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="25" height="25"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M184 48H328c4.4 0 8 3.6 8 8V96H176V56c0-4.4 3.6-8 8-8zm-56 8V96H64C28.7 96 0 124.7 0 160v96H192 320 512V160c0-35.3-28.7-64-64-64H384V56c0-30.9-25.1-56-56-56H184c-30.9 0-56 25.1-56 56zM512 288H320v32c0 17.7-14.3 32-32 32H224c-17.7 0-32-14.3-32-32V288H0V416c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V288z"/></svg> Work Experience
+### <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="25" height="25"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M184 48H328c4.4 0 8 3.6 8 8V96H176V56c0-4.4 3.6-8 8-8zm-56 8V96H64C28.7 96 0 124.7 0 160v96H192 320 512V160c0-35.3-28.7-64-64-64H384V56c0-30.9-25.1-56-56-56H184c-30.9 0-56 25.1-56 56zM512 288H320v32c0 17.7-14.3 32-32 32H224c-17.7 0-32-14.3-32-32V288H0V416c0 35.3 28.7 64 64 64H448c35.3 0 64-28.7 64-64V288z"/></svg> Work Experience <a name="work"></a>
 * **CEO and Co-founder** <span style="font-size:smaller;">[Jan 2022 - Current]</span>  
 X23D AG&reg; (Zurich, Switzerland)  
 Through our academic research work at [ROCS](https://rocs.balgrist.ch/en/), X23D&reg; has been founded as a startup focusing on delivering the next generation of surgical navigation solutions based on our recent advancements in the filed of AI-based 3D anatomical reconstruction. We have secured seed funding that has allowed us to pursue our research and development activities in the first phase of our product development roadmap.  
@@ -59,7 +65,7 @@ Project: Project: the application of optical flow sensors for C-arm base trackin
 
 ---
 
-### <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" width="25" height="25"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M160 64c0-35.3 28.7-64 64-64H576c35.3 0 64 28.7 64 64V352c0 35.3-28.7 64-64 64H336.8c-11.8-25.5-29.9-47.5-52.4-64H384V320c0-17.7 14.3-32 32-32h64c17.7 0 32 14.3 32 32v32h64V64L224 64v49.1C205.2 102.2 183.3 96 160 96V64zm0 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192zM133.3 352h53.3C260.3 352 320 411.7 320 485.3c0 14.7-11.9 26.7-26.7 26.7H26.7C11.9 512 0 500.1 0 485.3C0 411.7 59.7 352 133.3 352z"/></svg> Teaching 
+### <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" width="25" height="25"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M160 64c0-35.3 28.7-64 64-64H576c35.3 0 64 28.7 64 64V352c0 35.3-28.7 64-64 64H336.8c-11.8-25.5-29.9-47.5-52.4-64H384V320c0-17.7 14.3-32 32-32h64c17.7 0 32 14.3 32 32v32h64V64L224 64v49.1C205.2 102.2 183.3 96 160 96V64zm0 64a96 96 0 1 1 0 192 96 96 0 1 1 0-192zM133.3 352h53.3C260.3 352 320 411.7 320 485.3c0 14.7-11.9 26.7-26.7 26.7H26.7C11.9 512 0 500.1 0 485.3C0 411.7 59.7 352 133.3 352z"/></svg> Teaching <a name="teaching"></a>
 
 * **Mandated Instructore** <span style="font-size:smaller;">[Feb 2022 - Jun 2022]</span>  
 [University of Zurich](https://www.uzh.ch/en.html), [Faculty of Business, Economics and Informatics](https://www.oec.uzh.ch/en.html) (Zurich, Switzerland)  
