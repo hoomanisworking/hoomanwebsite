@@ -12,8 +12,7 @@ header:
 2. [Journal Publications - Senior Author](#seniorauthor)
 3. [Journal Publications - First Co-Author](#firstcoauthor)
 4. [Journal Publications - Co-Author](#coauthor)
-5. [Peer Reviewed Conference Publications]
-(#conference)
+5. [Peer Reviewed Conference Publications](#conference)
 
 --- 
 
@@ -91,5 +90,5 @@ header:
 * **Esfandiari H**, Martinez JF, Alvarez AG, Guy P, Street J, Anglin C, Hodgson AJ. An automated, robust and closed form mini-RSA system for intraoperative C-arm calibration. In: Computer Assisted Radiology and Surgery 2017, Barcelona, Spain, 12(Supplement 1).  
  [doi: 10.1007/s11548-017-1588-3](https://link.springer.com/article/10.1007/s11548-017-1588-3)
 
- * **Esfandiari H**, Amiri S, Lichti DD, Anglin C. A fast, accurate and easy to implement method for pose recognition of an intramedullary nail using a tracked C-arm. In: Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XL-5, 217–223, 2014
+ * **Esfandiari H**, Amiri S, Lichti DD, Anglin C. A fast, accurate and easy to implement method for pose recognition of an intramedullary nail using a tracked C-arm. In: Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XL-5, 217–223, 2014  
  [https://doi.org/10.5194/isprsarchives-XL-5-217-2014](https://doi.org/10.5194/isprsarchives-XL-5-217-2014)
