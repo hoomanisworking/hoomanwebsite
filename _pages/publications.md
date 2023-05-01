@@ -79,3 +79,17 @@ header:
 ---
 
  ### <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" height='25' width='25'><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M335.5 4l288 160c15.4 8.6 21 28.1 12.4 43.5s-28.1 21-43.5 12.4L320 68.6 47.5 220c-15.4 8.6-34.9 3-43.5-12.4s-3-34.9 12.4-43.5L304.5 4c9.7-5.4 21.4-5.4 31.1 0zM320 160a40 40 0 1 1 0 80 40 40 0 1 1 0-80zM144 256a40 40 0 1 1 0 80 40 40 0 1 1 0-80zm312 40a40 40 0 1 1 80 0 40 40 0 1 1 -80 0zM226.9 491.4L200 441.5V480c0 17.7-14.3 32-32 32H120c-17.7 0-32-14.3-32-32V441.5L61.1 491.4c-6.3 11.7-20.8 16-32.5 9.8s-16-20.8-9.8-32.5l37.9-70.3c15.3-28.5 45.1-46.3 77.5-46.3h19.5c16.3 0 31.9 4.5 45.4 12.6l33.6-62.3c15.3-28.5 45.1-46.3 77.5-46.3h19.5c32.4 0 62.1 17.8 77.5 46.3l33.6 62.3c13.5-8.1 29.1-12.6 45.4-12.6h19.5c32.4 0 62.1 17.8 77.5 46.3l37.9 70.3c6.3 11.7 1.9 26.2-9.8 32.5s-26.2 1.9-32.5-9.8L552 441.5V480c0 17.7-14.3 32-32 32H472c-17.7 0-32-14.3-32-32V441.5l-26.9 49.9c-6.3 11.7-20.8 16-32.5 9.8s-16-20.8-9.8-32.5l36.3-67.5c-1.7-1.7-3.2-3.6-4.3-5.8L376 345.5V400c0 17.7-14.3 32-32 32H296c-17.7 0-32-14.3-32-32V345.5l-26.9 49.9c-1.2 2.2-2.6 4.1-4.3 5.8l36.3 67.5c6.3 11.7 1.9 26.2-9.8 32.5s-26.2 1.9-32.5-9.8z"/></svg> Peer Reviewed Conference Publications <a name="conference"></a>
+
+* Ackermann J, Wieland M, Hoch A, Ganz R, Snedeker JG, Oswald MR, Pollefeys M, Zingg PO, **Esfandiari H**, Fürnstahl P. A New approach to orthopedic surgery planning using deep reinforcement learning and simulation. In: [International Conference on Medical Image Computing and Computer-Assisted Intervention](https://link.springer.com/chapter/10.1007/978-3-030-87202-1_52) 2021 Sep 27, Strasbourg, France. (pp. 540-549). Springer, Cham.
+
+* **Esfandiari H**, Andress S, Herold M, Boecker W, Weidert S, Hodgson AJ. A deep learning approach for single shot C-Arm pose estimation. In: The 20th Annual Meeting of the International Society for Computer Assisted Orthopaedic Surgery (CAOS) 2020,  (pp. 69–73). EasyChair  
+[doi:10.29007/6mkk](https://easychair.org/publications/paper/MmwT).
+
+* **Esfandiari H**, Anglin C, Guy P, Hodgson AJ. A deep learning-based approach for localization of pedicle regions in preoperative CT scans. In: The 18th Annual Meeting of the International Society for Computer Assisted Orthopaedic Surgery (CAOS) 2018, China. EasyChair; 2018:46–50. **Best technical poster award**  
+[doi:10.29007/j56f](https://easychair.org/publications/paper/C853)
+
+* **Esfandiari H**, Martinez JF, Alvarez AG, Guy P, Street J, Anglin C, Hodgson AJ. An automated, robust and closed form mini-RSA system for intraoperative C-arm calibration. In: Computer Assisted Radiology and Surgery 2017, Barcelona, Spain, 12(Supplement 1).  
+ [doi: 10.1007/s11548-017-1588-3](https://link.springer.com/article/10.1007/s11548-017-1588-3)
+
+ * **Esfandiari H**, Amiri S, Lichti DD, Anglin C. A fast, accurate and easy to implement method for pose recognition of an intramedullary nail using a tracked C-arm. In: Int. Arch. Photogramm. Remote Sens. Spatial Inf. Sci., XL-5, 217–223, 2014
+ [https://doi.org/10.5194/isprsarchives-XL-5-217-2014](https://doi.org/10.5194/isprsarchives-XL-5-217-2014)
