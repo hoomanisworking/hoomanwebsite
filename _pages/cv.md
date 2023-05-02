@@ -12,6 +12,8 @@ header:
 1. [Education](#education)
 1. [Work Experience](#work)
 1. [Teaching Experience](#teaching)
+1. [Publications](#publications)
+1. [Grants, Scholarships and Awards](#awards)
 
 
 ### <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="25" height="25"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"/></svg> Personal Profile <a name="profile"></a>
@@ -78,3 +80,23 @@ I was the director of a 2 credit graduate level course titled: Technical worksho
  * **Teaching Assistant** <span style="font-size:smaller;">[Sep 2016 - Apr 2018]</span>  
 [The University of British Columbia](https://www.ubc.ca/)(Vancouver, Canada)  
 Courses: [Engineers in Scrubs Program (graduate level)](https://www.bme.ubc.ca/graduate/prospective-students-2-2/graduate-programs-2/engineers-in-scrubs/), Engineering data analysis
+
+---
+
+### <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 576 512" width="25" height="25"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M0 80v48c0 17.7 14.3 32 32 32H48 96V80c0-26.5-21.5-48-48-48S0 53.5 0 80zM112 32c10 13.4 16 30 16 48V384c0 35.3 28.7 64 64 64s64-28.7 64-64v-5.3c0-32.4 26.3-58.7 58.7-58.7H480V128c0-53-43-96-96-96H112zM464 480c61.9 0 112-50.1 112-112c0-8.8-7.2-16-16-16H314.7c-14.7 0-26.7 11.9-26.7 26.7V384c0 53-43 96-96 96H368h96z"/></svg> Publications <a name="publications"></a>
+
+Please refer to the publications page for a full list of my publications. 
+
+---
+
+### <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 384 512" width='25' height='25'><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M173.8 5.5c11-7.3 25.4-7.3 36.4 0L228 17.2c6 3.9 13 5.8 20.1 5.4l21.3-1.3c13.2-.8 25.6 6.4 31.5 18.2l9.6 19.1c3.2 6.4 8.4 11.5 14.7 14.7L344.5 83c11.8 5.9 19 18.3 18.2 31.5l-1.3 21.3c-.4 7.1 1.5 14.2 5.4 20.1l11.8 17.8c7.3 11 7.3 25.4 0 36.4L366.8 228c-3.9 6-5.8 13-5.4 20.1l1.3 21.3c.8 13.2-6.4 25.6-18.2 31.5l-19.1 9.6c-6.4 3.2-11.5 8.4-14.7 14.7L301 344.5c-5.9 11.8-18.3 19-31.5 18.2l-21.3-1.3c-7.1-.4-14.2 1.5-20.1 5.4l-17.8 11.8c-11 7.3-25.4 7.3-36.4 0L156 366.8c-6-3.9-13-5.8-20.1-5.4l-21.3 1.3c-13.2 .8-25.6-6.4-31.5-18.2l-9.6-19.1c-3.2-6.4-8.4-11.5-14.7-14.7L39.5 301c-11.8-5.9-19-18.3-18.2-31.5l1.3-21.3c.4-7.1-1.5-14.2-5.4-20.1L5.5 210.2c-7.3-11-7.3-25.4 0-36.4L17.2 156c3.9-6 5.8-13 5.4-20.1l-1.3-21.3c-.8-13.2 6.4-25.6 18.2-31.5l19.1-9.6C65 70.2 70.2 65 73.4 58.6L83 39.5c5.9-11.8 18.3-19 31.5-18.2l21.3 1.3c7.1 .4 14.2-1.5 20.1-5.4L173.8 5.5zM272 192a80 80 0 1 0 -160 0 80 80 0 1 0 160 0zM1.3 441.8L44.4 339.3c.2 .1 .3 .2 .4 .4l9.6 19.1c11.7 23.2 36 37.3 62 35.8l21.3-1.3c.2 0 .5 0 .7 .2l17.8 11.8c5.1 3.3 10.5 5.9 16.1 7.7l-37.6 89.3c-2.3 5.5-7.4 9.2-13.3 9.7s-11.6-2.2-14.8-7.2L74.4 455.5l-56.1 8.3c-5.7 .8-11.4-1.5-15-6s-4.3-10.7-2.1-16zm248 60.4L211.7 413c5.6-1.8 11-4.3 16.1-7.7l17.8-11.8c.2-.1 .4-.2 .7-.2l21.3 1.3c26 1.5 50.3-12.6 62-35.8l9.6-19.1c.1-.2 .2-.3 .4-.4l43.2 102.5c2.2 5.3 1.4 11.4-2.1 16s-9.3 6.9-15 6l-56.1-8.3-32.2 49.2c-3.2 5-8.9 7.7-14.8 7.2s-11-4.3-13.3-9.7z"/></svg> Grants, Scholarships and Awards <a name='awards'></a>
+
+* 2022 - Industrial development seed funding, [Balgrist Foundation](https://balgriststiftung.ch/) 
+* 2019 - [Friedman award for scholars in health](https://www.grad.ubc.ca/awards/friedman-award-scholars-health), UBC
+* 2019 - [Short-term Research Grant](https://www.daad.org/en/find-funding/graduate-opportunities/research-grants/short-term-research-grants/), [German Academic Exchange Service (DAAD)](https://www.daad.org/en/)
+* 2015-18 - International tuition award, UBC
+* 2015-17 - Graduate student initiative award, [Biomedical Engineering](https://www.bme.ubc.ca/), UBC
+* 2015-16 - [The Engineers in Scrubs Scholarship (EIS)](https://www.bme.ubc.ca/graduate/prospective-students-2-2/graduate-programs-2/engineers-in-scrubs/), UBC
+* 2014 - [Faculty of graduate studies scholarship](https://grad.ucalgary.ca/awards), [University of Calgary](https://www.ucalgary.ca/)
+* 2013-14 - [Industrial postgraduate scholarship](https://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/index_eng.asp), [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp)
+* 2010-21 - Travel grants: NSERC Create, The Schulic student activities, Department of Geomatics Engineering travel fund.  
