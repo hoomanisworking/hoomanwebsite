@@ -23,6 +23,7 @@ header:
 
 ---
 
+<font size='2'>
 
 ### <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" width="25" height="25"><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M224 256A128 128 0 1 0 224 0a128 128 0 1 0 0 256zm-45.7 48C79.8 304 0 383.8 0 482.3C0 498.7 13.3 512 29.7 512H418.3c16.4 0 29.7-13.3 29.7-29.7C448 383.8 368.2 304 269.7 304H178.3z"/></svg> Personal Profile <a name="profile"></a>
 I am the head of the artificial intelligence research group within the Research in Orthopedic Computer Science ([ROCS](https://rocs.balgrist.ch/en/) lab, [Balgrist University Hospital](https://www.balgrist.ch/en/), [University of Zurich](https://www.uzh.ch/en.html), Switzerland). I am also a co-founder and the Chief Executive Officer at X23D&reg; AG. My area of research includes: computer assisted surgery, surgical navigation, medical artificial intelligence, medical image processing and medical augmented reality. I currently supervise and co-supervise several M.Sc. and PhD students at the [University of Zurich](https://www.uzh.ch/en.html) and [ETH Zurich](https://ethz.ch/en.html). 
@@ -167,6 +168,7 @@ Professional certification obtained for the role of Scrum master in agile projec
 
 * **Invited Journal and Conference Reviewer** (2016 - current)  
 Journals:
+<font size='1.5'>
     * [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis)
     * [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
     * [MDPI Sensors ](https://www.mdpi.com/journal/sensors)
@@ -179,8 +181,9 @@ Journals:
     * [BMC Surgery](https://bmcsurg.biomedcentral.com/?gclid=CjwKCAjw8JKbBhBYEiwAs3sxN7341QGw1S4vF3Gtx6ihVgM9RjT3L1Bi0iCS---5FLszY2mKDkCiVxoCxYwQAvD_BwE)
     * [Journal of Engineering in Medicine](https://journals.sagepub.com/home/pih)
     * [The Medical Image Computing and Computer Assisted Intervention (MICCAI)](http://www.miccai.org/)  
-  
+  </font>
 
+<!-- -->
 * **Operations Organizer**, Organization and management team (2017)  
 [The International Confernece on Engineering Design (ICED) 2017](https://www.designsociety.org/)
 
@@ -204,3 +207,4 @@ Journals:
 * **Hobbies**: Analogue photography, drone vidiography, traveling, playing the piano and ukulele. 
 * **Interests**: cameras (in all shapes, sizes, forms and types!) 
 
+</font>
