@@ -18,6 +18,8 @@ header:
 1. [Technical Skills](#skills)
 1. [Certificates](#certificates)
 1. [Management and Soft Skills](#soft)
+1. [Volunteering Experience](#volunteering)
+1. [Hobbies and Interests](#hobbies)
 
 ---
 
@@ -158,3 +160,47 @@ Professional certification obtained for the role of Scrum master in agile projec
 * **Communication:** Strong professional and scientific communication skills and substantial public speaking experience. 
 * **Leadership:** Experience through my role as the CTO of X23D&reg;, as the AI group head at ROCS and my presidential role at BMEGA.
 * **Teamwork:** Have been involved in several interdisciplinary and international research projects involving different stakeholders.
+
+---
+
+### <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" height='25' width='25'><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M190.5 68.8L225.3 128H224 152c-22.1 0-40-17.9-40-40s17.9-40 40-40h2.2c14.9 0 28.8 7.9 36.3 20.8zM64 88c0 14.4 3.5 28 9.6 40H32c-17.7 0-32 14.3-32 32v64c0 17.7 14.3 32 32 32H480c17.7 0 32-14.3 32-32V160c0-17.7-14.3-32-32-32H438.4c6.1-12 9.6-25.6 9.6-40c0-48.6-39.4-88-88-88h-2.2c-31.9 0-61.5 16.9-77.7 44.4L256 85.5l-24.1-41C215.7 16.9 186.1 0 154.2 0H152C103.4 0 64 39.4 64 88zm336 0c0 22.1-17.9 40-40 40H288h-1.3l34.8-59.2C329.1 55.9 342.9 48 357.8 48H360c22.1 0 40 17.9 40 40zM32 288V464c0 26.5 21.5 48 48 48H224V288H32zM288 512H432c26.5 0 48-21.5 48-48V288H288V512z"/></svg> Volunteering Experience <a name='volunteering'></a>
+
+* **Invited Journal and Conference Reviewer** (2016 - current)  
+Journals:
+    * [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis)
+    * [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
+    * [MDPI Sensors ](https://www.mdpi.com/journal/sensors)
+    * [The International Journal of Computer Assisted Radiology and Surgery](https://www.springer.com/journal/11548)
+    * [MDPI Journal of Imaging](https://www.mdpi.com/journal/jimaging)
+    * [The International Journal of Medical Robotics and Computer Assisted Surgery](https://onlinelibrary.wiley.com/journal/1478596x)
+    * [IEEE Transactions on Biomedical Engineering](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=10)
+    * [BMJ Sport and Exercise Medicine](https://bmjopensem.bmj.com/)
+    * [Medical & Biological Engineering & Computing](https://www.springer.com/journal/11517)
+    * [BMC Surgery](https://bmcsurg.biomedcentral.com/?gclid=CjwKCAjw8JKbBhBYEiwAs3sxN7341QGw1S4vF3Gtx6ihVgM9RjT3L1Bi0iCS---5FLszY2mKDkCiVxoCxYwQAvD_BwE)
+    * [Journal of Engineering in Medicine](https://journals.sagepub.com/home/pih)
+    * [The Medical Image Computing and Computer Assisted Intervention (MICCAI)](http://www.miccai.org/)  
+  
+
+* **Operations Organizer**, Organization and management team (2017)  
+[The International Confernece on Engineering Design (ICED) 2017](https://www.designsociety.org/)
+
+* **Volunteer Ski Instructor**, Calgary Canada (2012-14)  
+[Canadian Association for Disabled Skiing (CADS)](https://cads.ski/en)
+
+---
+
+### <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" height='25' width='25'><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M0 128C0 92.7 28.7 64 64 64H256h48 16H576c35.3 0 64 28.7 64 64V384c0 35.3-28.7 64-64 64H320 304 256 64c-35.3 0-64-28.7-64-64V128zm320 0V384H576V128H320zM178.3 175.9c-3.2-7.2-10.4-11.9-18.3-11.9s-15.1 4.7-18.3 11.9l-64 144c-4.5 10.1 .1 21.9 10.2 26.4s21.9-.1 26.4-10.2l8.9-20.1h73.6l8.9 20.1c4.5 10.1 16.3 14.6 26.4 10.2s14.6-16.3 10.2-26.4l-64-144zM160 233.2L179 276H141l19-42.8zM448 164c11 0 20 9 20 20v4h44 16c11 0 20 9 20 20s-9 20-20 20h-2l-1.6 4.5c-8.9 24.4-22.4 46.6-39.6 65.4c.9 .6 1.8 1.1 2.7 1.6l18.9 11.3c9.5 5.7 12.5 18 6.9 27.4s-18 12.5-27.4 6.9l-18.9-11.3c-4.5-2.7-8.8-5.5-13.1-8.5c-10.6 7.5-21.9 14-34 19.4l-3.6 1.6c-10.1 4.5-21.9-.1-26.4-10.2s.1-21.9 10.2-26.4l3.6-1.6c6.4-2.9 12.6-6.1 18.5-9.8l-12.2-12.2c-7.8-7.8-7.8-20.5 0-28.3s20.5-7.8 28.3 0l14.6 14.6 .5 .5c12.4-13.1 22.5-28.3 29.8-45H448 376c-11 0-20-9-20-20s9-20 20-20h52v-4c0-11 9-20 20-20z"/></svg> Languages <a name='languages'></a>
+
+* **English**: Full professional proficiency
+* **Persian(Farsi)**: Native proficiency
+* **Kurdish**: Bilingual proficiency
+* **French**: Beginner
+
+---
+
+### <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 512" width='25' height='25'><!--! Font Awesome Pro 6.4.0 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M312 32c-13.3 0-24 10.7-24 24s10.7 24 24 24h25.7l34.6 64H222.9l-27.4-38C191 99.7 183.7 96 176 96H120c-13.3 0-24 10.7-24 24s10.7 24 24 24h43.7l22.1 30.7-26.6 53.1c-10-2.5-20.5-3.8-31.2-3.8C57.3 224 0 281.3 0 352s57.3 128 128 128c65.3 0 119.1-48.9 127-112h49c8.5 0 16.3-4.5 20.7-11.8l84.8-143.5 21.7 40.1C402.4 276.3 384 312 384 352c0 70.7 57.3 128 128 128s128-57.3 128-128s-57.3-128-128-128c-13.5 0-26.5 2.1-38.7 6L375.4 48.8C369.8 38.4 359 32 347.2 32H312zM458.6 303.7l32.3 59.7c6.3 11.7 20.9 16 32.5 9.7s16-20.9 9.7-32.5l-32.3-59.7c3.6-.6 7.4-.9 11.2-.9c39.8 0 72 32.2 72 72s-32.2 72-72 72s-72-32.2-72-72c0-18.6 7-35.5 18.6-48.3zM133.2 368h65c-7.3 32.1-36 56-70.2 56c-39.8 0-72-32.2-72-72s32.2-72 72-72c1.7 0 3.4 .1 5.1 .2l-24.2 48.5c-9 18.1 4.1 39.4 24.3 39.4zm33.7-48l50.7-101.3 72.9 101.2-.1 .1H166.8zm90.6-128H365.9L317 274.8 257.4 192z"/></svg> Hobbies and Interests <a name='hobbies'></a>
+
+* **Sports**: Volleball (indoor and beach), hiking, swimming, running, tennis and skiing.
+* **Hobbies**: Analogue photography, drone vidiography, traveling, playing the piano and ukulele. 
+* **Interests**: cameras (in all shapes, sizes, forms and types!) 
+
