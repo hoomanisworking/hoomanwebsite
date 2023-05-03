@@ -168,7 +168,6 @@ Professional certification obtained for the role of Scrum master in agile projec
 
 * **Invited Journal and Conference Reviewer** (2016 - current)  
 Journals:
-<font size='1.5'>
     * [Medical Image Analysis](https://www.sciencedirect.com/journal/medical-image-analysis)
     * [IEEE Transactions on Medical Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=42)
     * [MDPI Sensors ](https://www.mdpi.com/journal/sensors)
@@ -181,7 +180,7 @@ Journals:
     * [BMC Surgery](https://bmcsurg.biomedcentral.com/?gclid=CjwKCAjw8JKbBhBYEiwAs3sxN7341QGw1S4vF3Gtx6ihVgM9RjT3L1Bi0iCS---5FLszY2mKDkCiVxoCxYwQAvD_BwE)
     * [Journal of Engineering in Medicine](https://journals.sagepub.com/home/pih)
     * [The Medical Image Computing and Computer Assisted Intervention (MICCAI)](http://www.miccai.org/)  
-  </font>
+
 
 <!-- -->
 * **Operations Organizer**, Organization and management team (2017)  
