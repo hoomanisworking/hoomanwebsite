@@ -202,9 +202,9 @@ Journals:
 
 <font size='15'>
 
-* **Sports**: Volleball (indoor and beach), hiking, swimming, running, tennis and skiing.
-* **Hobbies**: Analogue photography, drone vidiography, traveling, playing the piano and ukulele. 
-* **Interests**: cameras (in all shapes, sizes, forms and types!) 
+**Sports**: Volleball (indoor and beach), hiking, swimming, running, tennis and skiing.
+**Hobbies**: Analogue photography, drone vidiography, traveling, playing the piano and ukulele. 
+**Interests**: cameras (in all shapes, sizes, forms and types!) 
 </font>
 
 Test today again 
