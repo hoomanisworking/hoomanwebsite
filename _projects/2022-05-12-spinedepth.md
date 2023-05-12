@@ -1,10 +1,6 @@
 ---
-title: "Post: Standard"
-excerpt_separator: "<!--more-->"
-categories:
-  - Projects
-tags:
-  - Spine
+title: "Spine Depth Post"
+excerpt: "TTTT"
 ---
 
 This is my firs sample post
