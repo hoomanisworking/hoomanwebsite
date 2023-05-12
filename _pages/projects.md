@@ -1,6 +1,10 @@
 ---
-title: "Projects by Year"
+title: "Projects"
 permalink: /projects/
-layout: posts
-author_profile: true
+layout: collection
+collection: projects
+entries_layout: grid
+classes: wide
 ---
+
+This page will show all the projects of me. 
