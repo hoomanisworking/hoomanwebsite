@@ -1,5 +1,6 @@
 ---
 title: "Post: Spine Depth Post"
+classes: wide
 categories: 
   - depth
 tags:
