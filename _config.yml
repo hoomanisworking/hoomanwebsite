@@ -106,6 +106,17 @@ defaults:
     values:
       layout: single
       author_profile: true
+  
+  defaults:
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: false
+      share: true
+
 
 category_archive:
   type: liquid
