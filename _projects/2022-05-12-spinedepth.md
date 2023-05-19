@@ -3,7 +3,7 @@ title: "Post: Spine Depth"
 classes: wide
 header:
   teaser: "/assets/images/spinedepth_teaser.png"
-  image: "/assets/images/spinedepth_teaser.png"
+  image: "/assets/images/analog_teaser.png"
 categories: 
   - depth
 tags:
