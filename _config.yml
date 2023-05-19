@@ -107,7 +107,6 @@ defaults:
       layout: single
       author_profile: true
   
-  defaults:
   # _projects
   - scope:
       path: ""
